@@ -1,0 +1,89 @@
+*{
+
+}
+.body {
+    height: 1000px;
+    width: 100%;
+
+}
+
+.middle{
+    height: 1000px;
+    width: 1000px;
+    background-color: gainsboro;
+    margin: 0 auto;
+
+}
+    .header{
+    height: 75px;
+    width: 1000px;
+    background-color: aqua;
+    }
+        .logo{
+        height: 75px;
+        width: 353px;
+        background-color: aqua
+        }
+        .bcsimstupid{
+        height: 75px;
+        width: 647px;
+        float: right;
+        background-color: aqua;
+        }
+        .login{
+        height: 75px;
+        width: 300px;
+        float: right;
+        background-color: aqua
+        }
+.body2 {
+height: 1000px;
+width: 100%;
+background-color: lightgray;
+}
+.middle2{
+height: 1000px;
+width: 1250px;
+background-color: gainsboro;
+margin: 0 auto;
+}
+    .top2{
+    height: 75px;
+    width: 1250px;
+    background-color: aqua
+    }
+    .left{
+    height: 925px;
+    width: 250px;
+    float: left;
+    background-color: aqua;
+    }
+    .imascrub{
+    height: 925px;
+    width: 1000px;
+    background-color: blue;
+    float: right
+    }
+    .right{
+    height: 925px;
+    width: 175px;
+    background-color: aqua;
+    float: right;
+    }
+    .bottom{
+    height: 100px;
+    width: 825px;
+    background-color: aqua;
+    float: bottom;
+    }
+    .border{
+    width: 825px;
+    height:825px;
+    background-color: black
+    }
+        .map{
+        margin: 0 auto;
+        width: 800px;
+        height: 800px;
+        background-color: aliceblue
+        }
